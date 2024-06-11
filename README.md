@@ -15,8 +15,6 @@
   
       Part 3 Creating and comparing two models: a Logistic Regression, and a Random Forests Classifier
 
-      Part 4 Data preparation for modeling 
-
-      Part 5 Evaluating the model accuracy. 
+      Part 4 Data preparation for modeling and Evaluating the model accuracy
 
 
