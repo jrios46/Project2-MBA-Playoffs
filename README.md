@@ -44,5 +44,5 @@ Two machine learning models, Logistic Regression, and Random Forest Classifier, 
 #### Part 4 Data Preparation and Model Evaluation: 
 In this part, the data is prepared for modeling by preprocessing, feature selection, and splitting into training and testing sets. The trained models are then evaluated on the testing set to assess their accuracy, precision, recall, and other performance metrics. Model performance is visualized using confusion matrices and classification reports.
 
-Conclusion
+## Conclusion
 By implementing Logistic Regression and Random Forest Classifier models and optimizing them based on performance metrics, this project aims to predict NBA team playoff outcomes with high accuracy. The README file provides an overview of the project requirements, methodology, and expected outcomes. Further details, code implementation, and results can be found in the project repository.
