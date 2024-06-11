@@ -38,7 +38,7 @@ In this part, we explore the dataset containing NBA team performance data. We an
 #### Part 2 Analysis: 
 The analysis phase involves a deeper examination of the data to identify patterns, trends, and correlations. We conduct statistical analysis and visualization to understand the factors that influence a team's performance and playoff eligibility. Key metrics and indicators are identified for further investigation.
   
-#### Part 3 Creating and comparing two models: 
+#### Part 3 Creating the Models: 
 Two machine learning models, Logistic Regression, and Random Forest Classifier, are created to predict playoff eligibility based on the identified features. The models are trained on historical data and evaluated using appropriate performance metrics. A comparison is made between the two models to determine their effectiveness in predicting playoff outcomes.
 
 #### Part 4 Data Preparation and Model Evaluation: 
