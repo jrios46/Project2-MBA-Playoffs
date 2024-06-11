@@ -5,7 +5,7 @@
 
     Present code is divided as follows: 
 
-    The 'Main' notebook was created in order to post process the data gathered from "" 
+    The 'Main' notebook was created in order to post process the data gathered from "NBA team Performance" 
 
     The 'Statistics' notebook has the main project divivded:  
   
