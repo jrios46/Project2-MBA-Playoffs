@@ -3,29 +3,6 @@
 ## Overview
 This project aims to predict whether an NBA team will make it to the playoffs based on various advanced statistics. The dataset used contains NBA team performance data from 1992 to 2024. The prediction models implemented include Logistic Regression and Random Forest Classifier. The models are evaluated based on their accuracy in predicting playoff outcomes. 
 
-## Requirements
-### Implement a ML model with appropriate preprocessing and data cleaning
-    Conduct data preprocessing
-    Develop and train a baseline ML model
-    Evaluate initial model performance
-
-### Optimize the model and display the performance
-    Implement model optimization techniques
-    Compare optimized model performance to baseline
-    Visualize model performance metrics
-
-### Document your project using a well-formatted GitHub README
-    Create a GitHub repository that gives access to team members
-    Include a concise project overview in the README
-    Ensure code is well-commented with relevant notes
-    Maintain an organized repository with all relevant information
-
-### Present findings in a slideshow presentation
-    Create an executive summary or overview of the project and goals
-    Describe the approach and methods used to achieve project goals
-    Present results and conclusions of the analysis
-    Discuss additional questions for future research or development plans
-
 ## Main Notebook
 The 'Main' notebook is dedicated to post-processing the data gathered from "NBA team Performance." This notebook effectively combines multiple CSV files into a single DataFrame, facilitating further analysis and processing of the consolidated data. 
 
